@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generate absolute URLs with scripts/sitemap.mjs after setting PUBLIC_SITE_URL. No fictitious domain is included. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"/>
